@@ -1,0 +1,31 @@
+~ $ neofetch
+       __
+  ____/ /_  ______ ___  ____ ___  __  __
+ / __  / / / / __ `__ \/ __ `__ \/ / / /
+/ /_/ / /_/ / / / / / / / / / / / /_/ /
+\__,_/\__,_/_/ /_/ /_/_/ /_/ /_/\__, /
+                               /____/
+
+🤖 itsdummybot@github.com
+----------------------
+🖥️ Devices:
+  - 🖥️ PC:    https://linux-hardware.org/?probe=be54d62e88
+  - 📱 huwi:  JNY-LX1 on EMUI 12.0.0.220
+  - 📱 ximi:  R7A (pine) on LOS 20
+  - 📱 samsa: GT-P3110 on CM-11.0
+💾 Software:
+  - 🖥️ PC:
+    - 🪟 Windows 10: ["StartIsBack", "Chromium (woolyss)", "Prism Launcher", "Visual Studio 2017 Community (.NET Profile)", "Notepad++", "Obsidian", "Telegram Desktop"]
+    - 🐧 ArchLinux (KDE): ["Chromium", "Telegram Desktop", "Obsidian", "Prism Launcher", "kitty", "VSCode", "Kate"]
+  - 📱 huwi: ["Yandex.Music", "Opera", "Discord", "exteraGram", "Obsidian", "4PDA", "KDE Connect", "Boost for Reddit", "Youtube ReVanced"]
+  - 📱 ximi: ["4PDA", "DroidCam", "exteraGram", "Termux", "Opera"]
+  - 📱 samsa: []
+>_ Shell:
+  - ArchLinux: fish (kitty)
+  - Windows 10: cmd (wt)
+📦 Packages:
+  - pacman: 997
+  - huwi (pm): 39
+  - ximi: 5
+  - Yandex.Music: 541
+🎮 Games: ["Null's Brawl", "Minecraft", "Fancade"]
