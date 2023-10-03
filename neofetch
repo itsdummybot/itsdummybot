@@ -6,12 +6,14 @@
 \__,_/\__,_/_/ /_/ /_/_/ /_/ /_/\__, /
                                /____/
 
+> Снова ничего не работает, в отличие от туториала!
+
 🤖 itsdummybot@github.com
 ----------------------
 🕛 Uptime: 15 years
 🏴‍☠️ Langs: ["Russian", "English"]
 👍 Prefers:
-  - 🏴 Color: Dark, Green
+  - 🏴 Color: Dark, Red
   - 📱 Mobile system: Android with Magisk
   - 📥 Updates: No!
   - ⌨️ Programming:
@@ -23,27 +25,28 @@
 🖥️ Devices:
   - 🖥️ PC:    https://linux-hardware.org/?probe=be54d62e88
   - 📱 huwi:  JNY-LX1 on EMUI 12.0.0.220
-  - 📱 ximi:  R7A (pine) on LOS 20
-  - 📱 samsa: GT-P3110 on CM-11.0
+  - 📱 ximi:  R7A (pine) on crDroid v9.9 (mi439)
+  - 📱 samsa: GT-P3110 on self builded CM-11.0
 💾 Software:
   - 🖥️ PC:
-    - 🪟 Windows 10: ["StartIsBack", "Chromium (woolyss)", "Prism Launcher", "Visual Studio 2017 Community (.NET Profile)", "Notepad++", "Obsidian", "Telegram Desktop"]
-    - 🐧 ArchLinux (KDE): ["Chromium", "Telegram Desktop", "Obsidian", "Prism Launcher", "kitty", "VSCode", "Kate"]
+    - 🪟 Windows 10: ["StartIsBack", "Firefox", "Prism Launcher", "Visual Studio 2017 Community (.NET Profile)", "Notepad++", "Obsidian", "Telegram Desktop"]
+    - 🐧 ArchLinux (KDE): ["Firefox", "Telegram Desktop", "Obsidian", "Prism Launcher", "Konsole", "VSCode", "Kate"]
   - 📱 huwi: ["Yandex.Music", "Opera", "Discord", "exteraGram", "Obsidian", "4PDA", "KDE Connect", "Boost for Reddit", "Youtube ReVanced"]
   - 📱 ximi: ["4PDA", "DroidCam", "exteraGram", "Termux", "Opera"]
   - 📱 samsa: []
 >_ Shell:
-  - ArchLinux: fish (kitty)
-  - Windows 10: cmd (wt)
+  - ArchLinux: fish (konsole)
+  - Windows 10: cmd (conhost.exe)
 📦 Packages:
-  - pacman: 997
+  - pacman: 818
   - huwi (pm): 39
   - ximi: 5
-  - Yandex.Music: 541
-🎮 Games: ["Null's Brawl", "Minecraft", "Fancade"]
+  - Yandex.Music: 562
+  - YT.Music: 36
+🎮 Games: ["Minecraft", "Fancade"]
 🇦 Fonts:
-  - Monospace: JetBrains Mono
+  - Monospace: Ubuntu Mono (Terminal), JetBrains Mono
   - UI:
-    - huwi: Google Sans Bold
+    - huwi | ximi: Google Sans Bold
     - ArchLinux (KDE): SF Display Pro
   - Emoji: Segoe UI Emoji (Windows 11)
