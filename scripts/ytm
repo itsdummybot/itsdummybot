@@ -1,0 +1,25 @@
+#!/usr/bin/python3
+
+from ytmusicapi import YTMusic
+import sys
+
+def get(client: YTMusic):
+    pl = client.get_liked_songs()
+    
+    for song in pl["tracks"]:
+        artists = ""
+        for artst in song["artists"]:
+            artists += artst['name'] + " "
+        
+        print(f'{artists}- {song["title"]} \n🕒 - {song["duration"]}\n===========')
+
+def main():
+    client = YTMusic("/storage/.secretroom/ytmapi.json")
+    cmd = sys.argv[1]
+    
+    if cmd == "get":
+        get(client)
+    
+
+if __name__ == '__main__':
+    main()
