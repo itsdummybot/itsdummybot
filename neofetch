@@ -1,52 +1,56 @@
 ~ $ neofetch
+WARN: if art below looks messy, try changing your font to monospaced one
        __
   ____/ /_  ______ ___  ____ ___  __  __
  / __  / / / / __ `__ \/ __ `__ \/ / / /
 / /_/ / /_/ / / / / / / / / / / / /_/ /
 \__,_/\__,_/_/ /_/ /_/_/ /_/ /_/\__, /
                                /____/
-
-> Снова ничего не работает, в отличие от туториала!
-
-🤖 itsdummybot@github.com
 ----------------------
 🕛 Uptime: 15 years
 🏴‍☠️ Langs: ["Russian", "English"]
-👍 Prefers:
-  - 🏴 Color: Dark, Red
-  - 📱 Mobile system: Android with Magisk
-  - 📥 Updates: No!
-  - ⌨️ Programming:
-    - Languages: Python (Linux), C# (Windows)
-    - UI Frameworks: WinForms, WPF (.NET Windows); ??? (Python Linux)
-    - Data serialization: JSON
-    - IDEs: VSCode, VS 2017 Community
-    - Code storage: Git(Hub)
+Update date: 10.06.2024
+
 🖥️ Devices:
-  - 🖥️ PC:    https://linux-hardware.org/?probe=be54d62e88
-  - 📱 huwi:  JNY-LX1 on EMUI 12.0.0.220
-  - 📱 ximi:  R7A (pine) on crDroid v9.9 (mi439)
+  - 🖥️ PC (worse than potato):
+    - 🗣️ Motherboard: ASUS P8H61-MX
+    - 🧠 CPU: Intel Core i3-2100
+    - 🎫 RAM: 8 GB
+    - 👀 Videocard: NoVideo GT440
+    - 📺 Display: a cheap PB monitor 1366x768@60
+    - 💾 Storage:
+      - 🦹 SSD: ADATA SU630 (256 GB)
+        - TBW: 10/50 TB
+        - Only one partition "Windows HD" (W10)
+        - Was bought in mid-july 2023
+      - 🧟‍♀️ HDD: SEAGATE ??? (931 GB)
+        - Lifetime: 14 years (how it still works)
+        - Partition "Data HD" (675 GB | NTFS)
+        - Partition "Builds HD" (256 GB | EXT4 | not used)
+  - 📱 ginkgo: RN8 (ginkgo) on ArrowOS 12.1
+    - DPI: 500
+    - Vanilla system, no gapps :))
+  - 📱 ximi:  R7A (pine) on LineageOS 18.1 (mi439)
   - 📱 samsa: GT-P3110 on self builded CM-11.0
-💾 Software:
-  - 🖥️ PC:
-    - 🪟 Windows 10: ["StartIsBack", "Firefox", "Prism Launcher", "Visual Studio 2017 Community (.NET Profile)", "Notepad++", "Obsidian", "Telegram Desktop"]
-    - 🐧 ArchLinux (KDE): ["Firefox", "Telegram Desktop", "Obsidian", "Prism Launcher", "Konsole", "VSCode", "Kate"]
-  - 📱 huwi: ["Yandex.Music", "Opera", "Discord", "exteraGram", "Obsidian", "4PDA", "KDE Connect", "Boost for Reddit", "Youtube ReVanced"]
-  - 📱 ximi: ["4PDA", "DroidCam", "exteraGram", "Termux", "Opera"]
-  - 📱 samsa: []
->_ Shell:
-  - ArchLinux: fish (konsole)
-  - Windows 10: cmd (conhost.exe)
-📦 Packages:
-  - pacman: 818
-  - huwi (pm): 39
-  - ximi: 5
-  - Yandex.Music: 562
-  - YT.Music: 36
-🎮 Games: ["Minecraft", "Fancade"]
+🗿 Minecraft:
+  - Version: 1.16.5 Forge
+  - Mods:
+    - Embeddium
+    - Tiny Mob Farm
+    - Enhanced Mob Spawners
+    - Simple Storage Network
+    - Vanilla Hammers
+    - REI
+    - JER
+    - Iron Chests
+    - Iron Furnaces
+    - ItemPhysic
+    - ModernFix
+    - FerriteCore
+    - Speedy Hoppers
+    - Golden Hopper
+    - Corail Recycler
 🇦 Fonts:
-  - Monospace: Ubuntu Mono (Terminal), JetBrains Mono
-  - UI:
-    - huwi | ximi: Google Sans Bold
-    - ArchLinux (KDE): SF Display Pro
-  - Emoji: Segoe UI Emoji (Windows 11)
+  - Monospace: JetBrains Mono
+  - UI: Ubuntu
+  - Emoji: Apple Emoji
